@@ -7,6 +7,7 @@ More info in the notebooks themselves.
 
 ## Repository structure
 
+```
 |--- Exercises.ipynb                 // the exercise notebook for you
 |
 |--- Intro to Data Analysis.ipynb    // intro notebook for Python, Jupyter, Pandas, and Data Analysis
@@ -17,6 +18,7 @@ More info in the notebooks themselves.
 |--- Data
      |--- german_credit_rist.csv    // data for the Intro notebook
      |--- student_por.csv           // data for the exercises
+```
 
 -------
 ## Data
