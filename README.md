@@ -1,5 +1,5 @@
-# data-analysis
-Notebooks that introduce data analysis and machine learning concepts.
+# Data Analysis with Python
+Notebooks that introduce data analysis and machine learning concepts, using `pandas` and `scikit-learn`.
 
 More info in the notebooks themselves.
 
