@@ -12,12 +12,14 @@ More info in the notebooks themselves.
 |
 |--- Intro to Data Analysis.ipynb    // intro notebook for Python, Jupyter, Pandas, and Data Analysis
 |
-|--- LICENSE
+|--- LICENSE		     // MIT License
 |--- README.md               // this file
 |
-|--- Data
-     |--- german_credit_rist.csv    // data for the Intro notebook
-     |--- student_por.csv           // data for the exercises
+|--- Data/
+|     |--- german_credit_rist.csv    // data for the Intro notebook
+|     |--- student_por.csv           // data for the exercises
+|
+|--- Images/             // contains image files included in the Intro notebook
 ```
 
 -------
@@ -34,4 +36,4 @@ More info in the notebooks themselves.
 - Source: https://www.kaggle.com/datasets/impapan/student-performance-data-set
 - License: https://creativecommons.org/licenses/by/4.0/
 
-The data set was modified for didactic purposes, including changing delimiters, cleaning up and adding missing values.
+The data set was modified for didactic purposes, including changing delimiters, variable names and values; cleaning up and adding missing values.
